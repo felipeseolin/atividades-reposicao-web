@@ -1,0 +1,13 @@
+body {
+    margin-bottom: 50px;
+}
+
+section {
+    margin-top: 55px;
+}
+
+.card {
+    /* width: 18rem; */
+    min-width: 100%;
+    margin-bottom: 50px;
+}
